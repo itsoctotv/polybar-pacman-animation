@@ -22,7 +22,10 @@ interval = 0.15
 label = %output%
 
 ```
-add the modules "pacman" and "monster" to you bars    
+add the modules "pacman" and "monster" to you bars  
+
+# don't forget to change the path in the script.sh file in monster/ and pacman/   
+  
 
 if you want to see how and where it goes look at my [dotfiles](https://github.com/itsoctotv/dotfiles/blob/main/polybar/config.ini)    
 
