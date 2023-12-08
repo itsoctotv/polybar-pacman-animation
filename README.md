@@ -3,12 +3,11 @@
 ![pacman](preview.gif)
 
 # prerequisites   
-python3
-polybar
-some nerd/fontawesome font (jetbrains-mono-nerd in my case)
+python3   
+polybar   
+some nerd/fontawesome font (jetbrains-mono-nerd in my case)     
 
 # how to use   
----
 clone the repo and put it where you want it   
 put the following into your polybar's config.ini
 ```
